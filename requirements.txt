@@ -1,0 +1,6 @@
+pyrogram
+tgcrypto
+aiohttp
+uvloop
+aiofiles
+flask
